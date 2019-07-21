@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+ <h1>我的第一web页面</h1>
+  <script>
+	 a=5;b=6;c=a+b;
+	 console.log("这里是console打印的结果"+c);
+  </script>
+ </body>
+</html>

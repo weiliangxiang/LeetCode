@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="demo20180107.OverrideIAnnotationTransformer"></listener>
+	</listeners>
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="demo20180107.TestngExe"/>
+<!-- 			<class name="demo20180107.OverrideIReTry" /> -->
+<!-- 			 <class name="demo20180107.ReTryTest"> -->
+<!--                 <methods> -->
+<!--                     <include name="test1"/> -->
+<!--                     <include name="test2"/> -->
+<!--                 </methods> -->
+<!--             </class> -->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
