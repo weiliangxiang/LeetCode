@@ -1,0 +1,2 @@
+类型;地址;参数;头部信息
+get;http://123.58.251.183:8080/FileSever/upload.do;aa=10&bb=20;header=header1

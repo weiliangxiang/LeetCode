@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <h1>我的第一段JavaScript</h1>
+  <p>请输入数字，如果输入值不是数字，浏览器会弹出提示框</p>
+  <input type="text" id="demo">
+  <script>
+	function inputValidate(){
+		var x=document.getElementById("demo").value;
+		if(x==""||isNaN(x)){
+			alert("这不是数字");
+		}
+	}
+  </script>
+  
+  <input type="button" value="点击这里" onclick="inputValidate()">
+ </body>
+</html>

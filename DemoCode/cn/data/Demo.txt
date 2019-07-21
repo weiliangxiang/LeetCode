@@ -1,0 +1,9 @@
+其中read()方法返回的是读取得下个字符。当然你也可以使用read(char[] ch,int off,int length)这和处理二进制文件的时候类似。
+
+事实上在FileReader中的方法都是从InputStreamReader中继承过来的。read()方法是比较好费时间的，如果为了提高效率我们可以使用BufferedReader对Reader进行包装，这样可以提高读取得速度，我们可以一行一行的读取文本，使用readLine()方法。
+
+BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("ming.txt")));
+String data = null;
+while((data = br.readLine())!=null)
+{
+System.out.println(data);	
