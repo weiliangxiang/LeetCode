@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2c78d70-84f1-4ae6-ad02-e41352821aad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basicJava/src/main/java/day11/IsingleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basicJava/src/main/java/day11/JthreadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basicJava/src/main/java/day12/A_inputOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my/.idea/artifacts/my_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/ArraylistDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/Date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/Goodday.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/HelloWorld.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/IsContainArray.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/JSDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/StringJS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/StringJS2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/breakDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/changeStyle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/consoleLog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/consoleLog.html.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/demo1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/externjs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/forDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/headscript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/headscript2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/hellofunction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/ifDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/imgDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/indexOf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/inputValidate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/inserttext.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/myScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/number.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/numberX.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/numbertoString.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/paramDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/paramfunction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/personObject.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/personObject2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/pic_bulboff.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/pic_bulbon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/typeofDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/week.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/windowalert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/writeDate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/writeDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/JS/新建文本文档.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoCode/basicJava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/src/main/java/day11/AthreadDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/src/main/java/day11/BThreadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/src/main/java/day11/CThreadStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/src/main/java/day11/DsoldTicketThreadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/src/main/java/day11/EimplementRunable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/src/main/java/day11/FthreadSafe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/src/main/java/day11/GthreadRsymain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/src/main/java/day11/Hthreadcall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/AthreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/BThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/CThreadStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/DsoldTicketThreadExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/EimplementRunable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/FthreadSafe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/GthreadRsymain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/Hthreadcall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/callDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/cus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/getThreadName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/setThreadName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/ticketSold.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/basicJava/target/classes/day11/ticketimp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/Demo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/DestFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/ElementMap.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/ReadExcel.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/ReadText.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/ReadXml_ToString.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/ReadXml_ToString.txt.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/SourceFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/SourceFile.txt.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/api.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/apitest.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/buf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/compare1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/compare1.txt.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/compare2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/compare2.txt.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/conf.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/test.json.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/test.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/testExcel.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/writeFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/data/writeFile.txt.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/report-output/2018-01-23T17-35-20_437-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/report-output/2018-01-23T19-08-10_795-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/report-output/2018-01-23T19-12-16_033-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/assembly/assembly.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171203/ApacheCommon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171203/BeanutilsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171203/GetConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171203/GetRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171203/GetRequest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171203/PostRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171203/TestCall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171203/ThreadSafe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171210/GetXml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171210/KeyToXml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171210/ReadFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171210/person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171217/APITest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171217/HttpUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171217/HttpUtilsFan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171217/Json.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171217/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171217/entrySetDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171217/keySetDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171224/AssertDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171224/ElementMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171224/EmailDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171224/EmailElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171224/ExcelUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171224/ExcelUtils2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171224/PropertiesUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171224/ReadElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171224/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20171224/TestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/Aviator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/CheckPointUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/EmailUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/ExcelElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/HttpClientException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/HttpUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/JsonPathTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/MapUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/OverrideIAnnotationTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/OverrideIReTry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/PatternUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/ReTryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/SaveParamsUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/TestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/TestngData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180107/TestngExe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180121/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180121/JunitDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180121/testng.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180128/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180128/hello.jsp.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/demo20180128/lookback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/java/getThreadName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/java/getThreadName02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/java/runableDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/java/safeThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/java/safeThread02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/java/safeThread03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/java/soldThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/java/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/java/threadDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/java/threadDemo02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/java/threadStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/suanfa/CountString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/suanfa/ExcelReadDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/suanfa/FileBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/suanfa/FileWriteRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/suanfa/ReadText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/suanfa/WriteText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/suanfa/charjiequ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/suanfa/charpaixu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/suanfa/paixu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/suanfa/shuixianhua.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/suanfa/sushu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/java/suanfa/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/resources/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/src/main/resources/config2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/META-INF/maven/com/cn/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/META-INF/maven/com/cn/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/config2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171203/ApacheCommon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171203/BeanutilsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171203/GetConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171203/GetRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171203/GetRequest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171203/PostRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171203/TestCall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171203/ThreadSafe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171203/person1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171203/person2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171203/task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171210/GetXml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171210/KeyToXml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171210/ReadFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171210/person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171217/APITest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171217/HttpUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171217/HttpUtilsFan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171217/Json$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171217/Json.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171217/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171217/entrySetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171217/keySetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171224/AssertDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171224/ElementMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171224/EmailDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171224/EmailElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171224/ExcelUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171224/ExcelUtils2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171224/PropertiesUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171224/ReadElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171224/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20171224/TestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/Aviator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/CheckPointUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/DateUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/EmailUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/ExcelElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/HttpClientException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/HttpUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/JsonPathTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/MapUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/OverrideIAnnotationTransformer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/OverrideIReTry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/PatternUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/ReTryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/SaveParamsUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/TestCase$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/TestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/TestngData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180107/TestngExe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180121/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180121/JunitDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180121/testng.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180128/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180128/hello.jsp.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/demo20180128/lookback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/java/getThreadName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/java/getThreadName02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/java/runableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/java/safeThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/java/safeThread02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/java/safeThread03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/java/soldThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/java/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/java/threadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/java/threadDemo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/java/threadStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/suanfa/CountString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/suanfa/ExcelReadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/suanfa/FileBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/suanfa/FileWriteRead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/suanfa/ReadText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/suanfa/WriteText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/suanfa/charjiequ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/suanfa/charpaixu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/suanfa/paixu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/suanfa/shuixianhua.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/suanfa/sushu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/classes/suanfa/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/Default suite/Default test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/Default suite/Default test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/Default suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/Suite/Test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/Suite/Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/Suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/html/output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/html/overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/html/reportng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/html/reportng.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/html/suite1_test1_results.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/html/suites.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/junitreports/TEST-demo20180107.ReTryTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/junitreports/TEST-demo20180107.TestngExe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Default suite/Default test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Default suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Default suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Default suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Default suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Default suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Default suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Default suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Default suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Default suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Default suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Suite/Test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/xml/demo20180107.ReTryTest_results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/xml/demo20180107.TestngExe_results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoCode/cn/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basicJava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicJava/src/main/java/day11/GthreadRsymain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basicJava/src/main/java/day11/GthreadRsymain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicJava/target/classes/day11/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basicJava/target/classes/day11/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicJava/target/classes/day11/GthreadRsymain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basicJava/target/classes/day11/GthreadRsymain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicJava/target/classes/day11/Hthreadcall.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basicJava/target/classes/day11/Hthreadcall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicJava/target/classes/day11/callDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basicJava/target/classes/day11/callDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicJava/target/classes/day11/cus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basicJava/target/classes/day11/cus.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/twoSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/reverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+              <folding>
+                <element signature="e#66#67#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/merge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-120">
+              <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gongyueshu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1103#1112#0" expanded="true" />
+                <element signature="e#1485#1494#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/reverse2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="11" selection-start-line="2" selection-start-column="7" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Solution2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="633" column="19" selection-start-line="633" selection-start-column="19" selection-end-line="633" selection-end-column="19" />
+              <folding>
+                <element signature="e#23072#23073#0" expanded="true" />
+                <element signature="e#23112#23113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/wordReverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sanjiaoxing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+              <folding>
+                <element signature="e#70#71#0" expanded="true" />
+                <element signature="e#94#95#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find></find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/twoSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lengthOfLastWord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/merge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/isPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wordReverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gongyueshu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sanjiaoxing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reverse2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Solution2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Repository" />
+        <option name="mavenHome" value="$USER_HOME$/soft/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$USER_HOME$/soft/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Solution2">
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution2" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gongyueshu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gongyueshu" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse2" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sanjiaoxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sanjiaoxing" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.reverse2" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.sanjiaoxing" />
+        <item itemvalue="Application.gongyueshu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2c78d70-84f1-4ae6-ad02-e41352821aad" name="Default Changelist" comment="" />
+      <created>1578042229199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578042229199</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32907802" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$reverse2.ic" NAME="reverse2 Coverage Results" MODIFIED="1578820345820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LeetCode.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="319" column="12" selection-start-line="319" selection-start-column="12" selection-end-line="319" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="5760" column="29" selection-start-line="5760" selection-start-column="24" selection-end-line="5760" selection-end-column="29" />
+          <folding>
+            <element signature="e#202331#202332#0" expanded="true" />
+            <element signature="e#202371#202372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/isPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lengthOfLastWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <folding>
+            <element signature="e#66#67#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reverse2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sanjiaoxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#70#71#0" expanded="true" />
+            <element signature="e#94#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/twoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wordReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gongyueshu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1103#1112#0" expanded="true" />
+            <element signature="e#1485#1494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="11" selection-start-line="2" selection-start-column="7" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="633" column="19" selection-start-line="633" selection-start-column="19" selection-end-line="633" selection-end-column="19" />
+          <folding>
+            <element signature="e#23072#23073#0" expanded="true" />
+            <element signature="e#23112#23113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
