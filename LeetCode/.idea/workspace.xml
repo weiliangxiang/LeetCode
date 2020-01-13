@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2c78d70-84f1-4ae6-ad02-e41352821aad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b2c78d70-84f1-4ae6-ad02-e41352821aad" name="Default Changelist" comment="leetCode">
       <change afterPath="$PROJECT_DIR$/../basicJava/src/main/java/day11/IsingleThread.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../basicJava/src/main/java/day11/JthreadLock.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../basicJava/src/main/java/day12/A_inputOutput.java" afterDir="false" />
@@ -337,6 +335,7 @@
       <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/xml/demo20180107.ReTryTest_results.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DemoCode/cn/test-output/xml/demo20180107.TestngExe_results.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DemoCode/cn/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../basicJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basicJava/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../basicJava/src/main/java/day11/GthreadRsymain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basicJava/src/main/java/day11/GthreadRsymain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../basicJava/target/classes/day11/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basicJava/target/classes/day11/Bank.class" afterDir="false" />
@@ -433,8 +432,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Solution2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="256">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -537,7 +536,35 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -546,7 +573,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -617,6 +644,14 @@
       <option name="presentableId" value="Default" />
       <updated>1578042229199</updated>
     </task>
+    <task id="LOCAL-00001" summary="leetCode">
+      <created>1578882064894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578882064894</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -628,7 +663,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -636,7 +671,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32907802" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3297568" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -644,6 +679,10 @@
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetCode" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$reverse2.ic" NAME="reverse2 Coverage Results" MODIFIED="1578820345820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -775,8 +814,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="256">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>

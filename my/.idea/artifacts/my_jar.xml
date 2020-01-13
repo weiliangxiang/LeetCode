@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="my:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/my_jar</output-path>
+    <root id="archive" name="my.jar">
+      <element id="module-output" name="my" />
+      <element id="extracted-dir" path="$USER_HOME$/soft/socket.io-java-client/jar/socketio.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
